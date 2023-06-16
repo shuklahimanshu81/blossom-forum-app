@@ -1,10 +1,10 @@
 import "./App.css";
-import logo from "./logo.png";
+import Home from "./pages/Home/home";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
+      <Home></Home>
     </div>
   );
 }
